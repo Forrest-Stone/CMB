@@ -1,4 +1,4 @@
-# CMB-CIKM24
+# CMB
 
 ## Overall
 Pytorch implementation for paper "Counterfactual Multi-player Bandits for Explainable Recommendation Diversification".
